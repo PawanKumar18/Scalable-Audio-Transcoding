@@ -1,3 +1,3 @@
+## Architecture Diagram
 
-## Architecure Diagram
 ![alt](architecture-diagram.png)
